@@ -1,0 +1,2 @@
+test_id,operation,file_size_mb,client_workers,server_type,server_workers,total_time,throughput_bytes_sec,client_success,client_failed,server_status
+1,upload,10,1,thread,1,1.5131208896636963,6929889.12626178,1,0,OK
